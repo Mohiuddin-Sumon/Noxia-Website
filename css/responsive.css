@@ -1,0 +1,210 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+}
+
+
+/* Normal desktop ( LG ) :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .header-right {
+        margin-left: 20px;
+    }
+    .main-menu ul li {
+        margin-left: 30px;
+    }
+    .main-menu ul li a {
+        padding: 20px 0;
+    }
+    .header-right {
+        margin-top: 21px;
+    }
+    .slider-text h2 {
+        font-size: 70px;
+    }
+    .slider-text {
+        margin-top: 100px;
+    }
+    .slider-thumb {
+        margin-top: 120px;
+    }
+    .solution-text {
+        padding-top: 0;
+    }
+    .solution-img img {
+        margin-top: 80px;
+    }
+
+}
+
+/* Tablet desktop ( MD ) :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .mean-container a.meanmenu-reveal {
+        top: 12px;
+        border: 1px solid #ffffff;
+        color: #fff;
+    }
+    .mean-container a.meanmenu-reveal span {
+        background: #fff;
+    }
+    .slider-text h2 {
+        font-size: 72px;
+    }
+    .slider-active .slick-arrow {
+        top: 50%;
+    }
+    .slider-text {
+        margin-top: 0;
+    }
+    .slider-height {
+        min-height: 600px;
+    }
+    .ceo-text h2 {
+        padding: 0 50px;
+        text-align: center;
+    }
+    .ceo-text {
+        margin-top: 40px;
+    }
+    .fact-text h2 {
+        font-size: 40px;
+        margin-bottom: 3px;
+    }
+    .status-fact {
+        font-size: 21px;
+    }
+    .solution-img {
+        text-align: center;
+    }
+    .solution-text p {
+        padding-right: 75px;
+    }
+    .solution-text h2 {
+        font-size: 40px;
+    }
+    .section-title h2 {
+        font-size: 45px;
+    }
+    .section-title span {
+        font-size: 15px;
+    }
+    .event-text {
+        padding: 0 26px;
+    }
+    .event-text h2 {
+        font-size: 30px;
+    }
+    .single-team {
+        width: 50%;
+    }
+    .quote-area {
+        margin-top: 120px;
+    }
+    .quote-img {
+        text-align: center;
+    }
+
+}
+ 
+/* small mobile :320px. */
+@media (max-width: 767px) {
+    .mean-container a.meanmenu-reveal {
+        top: 12px;
+        border: 1px solid #ffffff;
+        color: #fff;
+    }
+    .mean-container a.meanmenu-reveal span {
+        background: #fff;
+    }
+    .slider-text {
+        margin-top: 50px;
+    }
+    .slider-text h2 {
+        font-size: 37px;
+    }
+    .slider-text p {
+        font-size: 15px;
+    }
+    .slider-height {
+        min-height: 560px;
+    }
+    .features-title h2 {
+        font-size: 28px;
+    }
+    .ceo-text h2 {
+        padding-right: 5px;
+    }
+    .skill-col-title {
+        font-size: 25px;
+        text-align: center;
+    }
+    .ceo-text p {
+        text-align: justify;
+        font-size: 15px;
+    }
+    .skill-col-title {
+        margin-top: 30px;
+    }
+    .video-wrapper h2 {
+        font-size: 22px;
+    }
+    .video-wrapper a {
+        height: 50px;
+        width: 50px;
+        line-height: 48px;
+        font-size: 17px;
+    }
+    .video-area {
+        padding: 100px 0;
+    }
+    .fact-text h2 {
+        font-size: 35px;
+    }
+    .status-fact {
+        font-size: 20px;
+    }
+    .solution-text h2 {
+        font-size: 33px;
+    }
+    .section-title h2 {
+        font-size: 25px;
+    }
+    .section-title span {
+        font-size: 13px;
+    }
+    .event-text {
+        padding: 0;
+    }
+    .event-text h2 {
+        font-size: 30px;
+    }
+    .event-text p {
+        font-size: 15px;
+    }
+    .single-team {
+        width: 100%;
+    }
+    .quote-area {
+        margin-top: 100px;
+        padding: 100px 0;
+    }
+    .quoteform h2 {
+        font-size: 30px;
+    }
+    .testimonial-quote {
+        display: none;
+    }
+    .testi-info p {
+        font-size: 15px;
+        padding: 0;
+    }
+    .testimonial-active ul {
+        left: 35%;
+    }
+
+}
+ 
+/* Large Mobile :480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+ 
+}
